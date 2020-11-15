@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+
+#passwordError{
+    color: red;
+}
+
+#passwordAgainError{
+    color: red;
+}
+
+#zipError{
+    color: red;
+}
+
+h1{
+    font-family: 'Seymour One', sans-serif;
+    color: white;
+    text-shadow : 4px 4px #00137F;
+    outline: 2px white;
+    margin-bottom: 30px;
+}
+
+form{
+    background-color: white;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-bottom: 100px;
+    font-family: 'Roboto Mono', monospace;
+    outline-color:blue;
+    outline-width: 10px;
+    outline-style: outset;
+    
+}
+
+#inputButton{
+    color:blue;
+    font-size: 1.2em;
+}
+
+footer{
+    color: white;
+}
+
+#req{
+    color: red;
+}
